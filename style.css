@@ -251,6 +251,7 @@ svg:hover {
   .comment-box {
     width: 280px;
     height: 120px;
+    margin-left: 15px
   }
   .comment-text {
     font-size: 11px;
