@@ -224,6 +224,7 @@ svg:hover {
   }
   .rating-text {
     font-size: 10px;
+    margin-left: 15px;
   }
   .rating-box {
     width: 300px;
