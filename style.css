@@ -237,7 +237,7 @@ svg:hover {
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 480px) {
   .main-heading {
     width: 300px;
   }
